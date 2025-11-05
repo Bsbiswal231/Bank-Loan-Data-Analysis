@@ -51,3 +51,5 @@
                   - Avg Interest Rate.
                   - Avg DTI.
                   - MTD metrics.
+
+SQL Queries: <a href="https://github.com/Bsbiswal231/Bank-Loan-Data-Analysis/blob/main/SQL%20Queries.docx"> SQL Queries </a>
