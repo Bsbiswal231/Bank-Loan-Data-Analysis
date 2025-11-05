@@ -69,6 +69,8 @@ SQL Queries: <a href="https://github.com/Bsbiswal231/Bank-Loan-Data-Analysis/blo
        - Avg DTI: 13.3%.
        - Good Loans: 86.2%.
        -Bad Loans: 13.8%.
+ Dashboard 1: <img width="1435" height="754" alt="Dashboard-1" src="https://github.com/user-attachments/assets/05ebf0e1-c65b-474b-bead-650d711452d8" />
+
 #### DASHBOARD 2: Overview.
        - Focus: Loan trends, borrower demographics, and regional insights.
 ##### Visuals:
@@ -83,6 +85,7 @@ SQL Queries: <a href="https://github.com/Bsbiswal231/Bank-Loan-Data-Analysis/blo
        - Borrowers with longer employment histories have better repayment consistency.
        - Most loans are taken for Debt Consolidation and Credit Card purposes.
        - Mortgage holders receive the highest funding.
+Dashboard 2:<img width="1430" height="754" alt="Dashboard-2" src="https://github.com/user-attachments/assets/857d0d97-9e9a-4266-a15e-fe9520c53d22" />
 
 #### DASHBOARD 3: Details.
        - Focus: Granular, record-level view of all loan transactions.
@@ -90,7 +93,8 @@ SQL Queries: <a href="https://github.com/Bsbiswal231/Bank-Loan-Data-Analysis/blo
        - Detailed table with Loan ID, Purpose, Grade, Term, Interest Rate, Funded Amount, Amount Received.
        - Filters for State, Grade, Loan Type, and Purpose.
        - Enables easy drill-down and data validation.
-       
+Dashboard 3: <img width="1433" height="753" alt="Dashboard-3" src="https://github.com/user-attachments/assets/1e16a02f-d41b-4557-97db-8cf6760f06b3" />
+
 ### Process:
 #### 1. Data Collection (Excel):
           - Imported raw data into Excel and verified data quality.
